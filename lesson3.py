@@ -1,4 +1,3 @@
-
 inputAllMinutes = int(input())
 hoursSleep = int(input())
 minutesSleep = int(input())
